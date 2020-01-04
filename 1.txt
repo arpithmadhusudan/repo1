@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 0815-626E
-
- Directory of C:\Users\Administrator\Desktop\mygit_project
-
-04-01-2020  19:39    <DIR>          .
-04-01-2020  19:39    <DIR>          ..
-04-01-2020  19:39                 0 1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  65,390,821,376 bytes free
+arpith
